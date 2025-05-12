@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Shopping_Tutorial.bqq6v0cox6.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Shopping_Tutorial.zxrdetf01k.bundle.scp.css"
     },
     {
       "Id": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\css\\animate.css",
@@ -35,6 +35,14 @@
     {
       "Id": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
       "Id": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\gallery1.jpg",

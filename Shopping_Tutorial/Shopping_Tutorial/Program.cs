@@ -19,7 +19,17 @@ namespace Shopping_Tutorial
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+               // options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
+
             var app = builder.Build();
+
+            app.UseSession();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -39,6 +49,13 @@ namespace Shopping_Tutorial
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
+            app.MapControllerRoute(
+                name: "Areas",
+                pattern: "{areas:exists}/{controller=Product}/{action=Index}/{id?}");
+
+            //Seeding data
+            var context = app.Services.CreateScope().ServiceProvider.GetRequiredService<DataContext>();
+            SeedData.SeedingData(context);
 
             app.Run();
         }

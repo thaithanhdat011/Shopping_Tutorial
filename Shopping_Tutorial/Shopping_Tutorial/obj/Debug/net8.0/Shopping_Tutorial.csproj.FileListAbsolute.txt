@@ -145,3 +145,7 @@ D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\
 D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\obj\Debug\net8.0\Shopping.BC895E67.Up2Date
+D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\obj\Debug\net8.0\Shopping_Tutorial.sourcelink.json
+D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Học lập trình .NET\Wed_ban_Hang_MVC\Shopping_Tutorial\Shopping_Tutorial\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
