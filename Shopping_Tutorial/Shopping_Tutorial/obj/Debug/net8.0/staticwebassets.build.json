@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "inJFSha/04KWZytkOAXmigC+VtOHLxL28zKVa1LNFNk=",
+  "Hash": "nsY56C84k/p7nAmI7riCZPGxLc/fvgz+T+jJXICpzr4=",
   "Source": "Shopping_Tutorial",
   "BasePath": "_content/Shopping_Tutorial",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "bqq6v0cox6",
-      "Integrity": "LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0=",
+      "Fingerprint": "zxrdetf01k",
+      "Integrity": "tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tutorial.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "bqq6v0cox6",
-      "Integrity": "LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0=",
+      "Fingerprint": "zxrdetf01k",
+      "Integrity": "tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css"
@@ -225,6 +225,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
+      "SourceId": "Shopping_Tutorial",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tutorial",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpevorp3j3",
+      "Integrity": "vO9AdJfjtyru7n4mLWCiKCeReTantxEvLkDhCo0MyTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
+      "SourceId": "Shopping_Tutorial",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tutorial",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fiqi9to77p",
+      "Integrity": "t9PwLtb3qPAjOTB9h9+bABK6my4d4oeRphOC235ANFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
       "Identity": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\gallery1.jpg",
@@ -2288,6 +2330,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.jpg",
+      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "788704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO9AdJfjtyru7n4mLWCiKCeReTantxEvLkDhCo0MyTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 09:30:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO9AdJfjtyru7n4mLWCiKCeReTantxEvLkDhCo0MyTc="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.wpevorp3j3.jpg",
+      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "788704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO9AdJfjtyru7n4mLWCiKCeReTantxEvLkDhCo0MyTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 09:30:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpevorp3j3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO9AdJfjtyru7n4mLWCiKCeReTantxEvLkDhCo0MyTc="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.fiqi9to77p.jpg",
+      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9PwLtb3qPAjOTB9h9+bABK6my4d4oeRphOC235ANFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 09:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fiqi9to77p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9PwLtb3qPAjOTB9h9+bABK6my4d4oeRphOC235ANFg="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9PwLtb3qPAjOTB9h9+bABK6my4d4oeRphOC235ANFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 09:31:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9PwLtb3qPAjOTB9h9+bABK6my4d4oeRphOC235ANFg="
         }
       ]
     },
@@ -7786,96 +7992,6 @@
       ]
     },
     {
-      "Route": "Shopping_Tutorial.bqq6v0cox6.bundle.scp.css",
-      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1135"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 08:20:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bqq6v0cox6"
-        },
-        {
-          "Name": "label",
-          "Value": "Shopping_Tutorial.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0="
-        }
-      ]
-    },
-    {
-      "Route": "Shopping_Tutorial.bqq6v0cox6.styles.css",
-      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tutorial.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1135"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 08:20:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bqq6v0cox6"
-        },
-        {
-          "Name": "label",
-          "Value": "Shopping_Tutorial.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0="
-        }
-      ]
-    },
-    {
       "Route": "Shopping_Tutorial.bundle.scp.css",
       "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
       "Selectors": [],
@@ -7886,7 +8002,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2282"
         },
         {
           "Name": "Content-Type",
@@ -7894,11 +8010,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0=\""
+          "Value": "\"tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 08:20:41 GMT"
+          "Value": "Mon, 12 May 2025 09:38:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7908,7 +8024,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0="
+          "Value": "sha256-tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs="
         }
       ]
     },
@@ -7923,7 +8039,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2282"
         },
         {
           "Name": "Content-Type",
@@ -7931,11 +8047,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0=\""
+          "Value": "\"tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 08:20:41 GMT"
+          "Value": "Mon, 12 May 2025 09:38:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7945,7 +8061,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LfT8Yy8d1MPi/ApJAo0fqf1WeaZC8bAZFvrM7GgOOP0="
+          "Value": "sha256-tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs="
+        }
+      ]
+    },
+    {
+      "Route": "Shopping_Tutorial.zxrdetf01k.bundle.scp.css",
+      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:38:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxrdetf01k"
+        },
+        {
+          "Name": "label",
+          "Value": "Shopping_Tutorial.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs="
+        }
+      ]
+    },
+    {
+      "Route": "Shopping_Tutorial.zxrdetf01k.styles.css",
+      "AssetFile": "D:\\Học lập trình .NET\\Wed_ban_Hang_MVC\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tutorial.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:38:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxrdetf01k"
+        },
+        {
+          "Name": "label",
+          "Value": "Shopping_Tutorial.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tyBoBlCkBpZ4I9uI7XmwhgSwhvqHMGoJkS96Lp3PsEs="
         }
       ]
     }

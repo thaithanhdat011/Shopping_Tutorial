@@ -1,0 +1,42 @@
+﻿@* @if(TempData["success"]!=null){
+	<div class="alert alert-success notification">
+		@TempData["success"]
+	</div>
+}
+@if(TempData["error"]!=null){
+	<div class="alert alert-danger notification">
+		@TempData["error"]
+	</div>
+} *@
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success notification">
+        @TempData["success"]
+    </div>
+    <script>
+        setTimeout(() => {
+            const n = document.querySelector(".notification");
+            if (n) {
+                n.style.transition = "opacity 0.5s ease-out";
+                n.style.opacity = 0;
+                setTimeout(() => n.remove(), 500);
+            }
+        }, 3000);
+    </script>
+}
+@if (TempData["error"] != null)
+{
+    <div class="alert alert-danger notification">
+        @TempData["error"]
+    </div>
+    <script>
+        setTimeout(() => {
+            const n = document.querySelector(".notification");
+            if (n) {
+                n.style.transition = "opacity 0.5s ease-out";
+                n.style.opacity = 0;
+                setTimeout(() => n.remove(), 500);
+            }
+        }, 3000);
+    </script>
+}
